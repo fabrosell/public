@@ -1,4 +1,4 @@
-# public
+# PostFileToAzureFunction
 
 Working sample on how to produce a multiple file request to an Azure Function and store it in Azure Storage.
 
